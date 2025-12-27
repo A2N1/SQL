@@ -1,0 +1,18 @@
+SELECT
+
+FROM
+
+WHERE
+
+ORDER BY
+
+GROUP BY
+
+HAVING
+
+DISTINCT
+
+TOP
+
+Query Order & Execution
+
