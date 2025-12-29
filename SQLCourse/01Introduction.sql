@@ -1,11 +1,22 @@
 --What is SQL?
---Structure Query Language (SQL) is a standard programming language specifically designed for managing and manipulating relational databases. 
+--Structured Query Language (SQL) is a standard programming language specifically designed for managing and manipulating relational databases. 
 --It allows users to create, read, update, and delete data within a database.
 --pronounced as "sequel" or by its initials "S-Q-L".
 
 --Why learn SQL?
+--SQL is essential for anyone working with data, as it provides a powerful and efficient way to interact with databases.
+--It's widely used in various industries for data analysis, reporting, and application development.
+--Learning SQL can enhance your career prospects, as many job roles require SQL knowledge.
 
---What is Database & Types?
+--What is Database?
+--A database (container) is an organized collection of data that can be easily accessed, managed, and updated.
+--purpose of a database is to store data in a structured way, allowing for efficient retrieval and manipulation of that data.
+--Excel, txt and other file formats are to small scale data storage solutions, while databases are designed to handle large volumes of data and complex queries.
+--it's a professional and secure way to manage data.
+
+--DBMS
+
+--SQL Server
 
 SQL Commands
 
