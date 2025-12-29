@@ -15,8 +15,18 @@
 --it's a professional and secure way to manage data.
 
 --DBMS
+--A Database Management System (DBMS) is software that enables users to create, manage, and interact with databases.
+--People, Applications and Power BI connect to the DBMS
+--Servers host the DBMS (Cloud or On-Premises))
 
---SQL Server
+--Vocabulary:
+--Database :: Stores Data
+--SQL :: Speak to Database
+--DBMS :: Manage Database
+--Server :: Where Databse Lives
+
+--Database Types:
+
 
 SQL Commands
 
