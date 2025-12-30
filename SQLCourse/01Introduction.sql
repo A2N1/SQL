@@ -8,6 +8,11 @@
 --SQL is essential for anyone working with data, as it provides a powerful and efficient way to interact with databases.
 --It's widely used in various industries for data analysis, reporting, and application development.
 --Learning SQL can enhance your career prospects, as many job roles require SQL knowledge.
+--high demand for SQL skills in data-related fields such as data analysis, data science, and database administration.
+--Software Developer: 
+--Data Analyst: 
+--Data Scientist:
+--Data Engineer:
 
 --What is Database?
 --A database (container) is an organized collection of data that can be easily accessed, managed, and updated.
