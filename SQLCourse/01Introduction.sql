@@ -26,6 +26,14 @@
 --Server :: Where Databse Lives
 
 --Database Types:
+--Relational Databases (RDBMS): Store data in tables with rows and columns. Examples: MySQL, PostgreSQL, Oracle, SQL Server.
+--SQL is primarily used with relational databases.
+--No SQL Databases: Designed for unstructured data and flexible schemas. Examples: MongoDB, Cassandra, Redis.
+--Types of No SQL Databases:
+--Key-Value Stores: Store data as key-value pairs. Examples: Redis, DynamoDB.
+--Column-Based Databases: Store data in columns rather than rows. Examples: Apache Cassandra, HBase.
+--Graph Databases: Store data in graph structures with nodes and edges. Examples: Neo4j, Amazon Neptune.
+--Document-Based Databases: Store data as documents, often in JSON or XML format. Examples: MongoDB, CouchDB.
 
 
 SQL Commands
