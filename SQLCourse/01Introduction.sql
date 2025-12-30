@@ -4,6 +4,7 @@
 --pronounced as "sequel" or by its initials "S-Q-L".
 
 --Why learn SQL?
+--Talk to Data
 --SQL is essential for anyone working with data, as it provides a powerful and efficient way to interact with databases.
 --It's widely used in various industries for data analysis, reporting, and application development.
 --Learning SQL can enhance your career prospects, as many job roles require SQL knowledge.
@@ -46,7 +47,13 @@
 --Text as Strings: Char, Varchar, Text ('Maria', 'Hello World')
 --Date and Time: Date ('2025-10-30'), Time ('09:30:00'), Timestamp
 
-SQL Commands
+--SQL Commands
+--DDL (Data Definition Language): Used to define and manage database structures.
+--Create, Alter, Drop
+--DML (Data Manipulation Language): Used to retrieve and manipulate data within the database.
+--Insert, Update, Delete
+--DQL (Data Query Language): A subset of DML focused on querying data.
+--Select
 
 SQL Components
 
