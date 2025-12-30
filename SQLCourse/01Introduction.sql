@@ -9,10 +9,12 @@
 --It's widely used in various industries for data analysis, reporting, and application development.
 --Learning SQL can enhance your career prospects, as many job roles require SQL knowledge.
 --high demand for SQL skills in data-related fields such as data analysis, data science, and database administration.
---Software Developer: 
---Data Analyst: 
---Data Scientist:
---Data Engineer:
+--Software Developer is a professional who designs, develops, and maintains software applications, often requiring interaction with databases to store and retrieve data.
+--Data Analyst is a professional who collects, processes, and performs statistical analyses on large datasets to extract meaningful insights and support decision-making.
+--Data Scientist is a professional who uses scientific methods, algorithms, and machine learning techniques to analyze and interpret complex data sets, with the goal of extracting valuable insights and making data-driven decisions.
+--Data Engineer is a professional responsible for designing, building, and maintaining the infrastructure and systems that enable the collection, storage, and processing of large volumes of data.
+--Industrial standard for working with relational databases.
+-- PowerBI, Tableau, KAFKA, Spark and Synapse all use SQL to interact with data.
 
 --What is Database?
 --A database (container) is an organized collection of data that can be easily accessed, managed, and updated.
