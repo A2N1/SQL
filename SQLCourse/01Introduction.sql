@@ -1,8 +1,3 @@
---What is SQL?
---Structured Query Language (SQL) is a standard programming language specifically designed for managing and manipulating relational databases. 
---It allows users to create, read, update, and delete data within a database.
---pronounced as "sequel" or by its initials "S-Q-L".
-
 --Why learn SQL?
 --Talk to Data
 --SQL is essential for anyone working with data, as it provides a powerful and efficient way to interact with databases.
