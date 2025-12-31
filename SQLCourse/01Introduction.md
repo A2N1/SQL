@@ -1,7 +1,7 @@
 # SQL Fundamentals
 
 ## What is SQL?
-**Structured Query Language (SQL)** is a standard programming language specifically designed for managing and manipulating relational databases. It allows users to create, read, update, and delete data within a database. It is commonly pronounced as "sequel" or by its initials "S-Q-L".
+**Structured Query Language (SQL)** is a standard programming language specifically designed for managing and manipulating relational databases. This language enables users to create, read, update, and delete data within a database. Most professionals pronounce the name as "sequel" or simply by its initials "S-Q-L".
 
 ---
 
@@ -33,6 +33,12 @@ A DBMS is the software that enables users to create, manage, and interact with d
 * **SQL:** The language used to speak to the database.
 * **DBMS:** The software used to manage the database.
 * **Server:** Where the database lives.
+
+for Obisidian:
+Database :: Stores Data
+SQL :: Speak to Database
+DBMS :: Manage Database
+Server :: Where Databse Lives
 
 ---
 

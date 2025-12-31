@@ -1,32 +1,14 @@
---Why learn SQL?
---Talk to Data
---SQL is essential for anyone working with data, as it provides a powerful and efficient way to interact with databases.
---It's widely used in various industries for data analysis, reporting, and application development.
---Learning SQL can enhance your career prospects, as many job roles require SQL knowledge.
---high demand for SQL skills in data-related fields such as data analysis, data science, and database administration.
---Software Developer is a professional who designs, develops, and maintains software applications, often requiring interaction with databases to store and retrieve data.
---Data Analyst is a professional who collects, processes, and performs statistical analyses on large datasets to extract meaningful insights and support decision-making.
---Data Scientist is a professional who uses scientific methods, algorithms, and machine learning techniques to analyze and interpret complex data sets, with the goal of extracting valuable insights and making data-driven decisions.
---Data Engineer is a professional responsible for designing, building, and maintaining the infrastructure and systems that enable the collection, storage, and processing of large volumes of data.
---Industrial standard for working with relational databases.
--- PowerBI, Tableau, KAFKA, Spark and Synapse all use SQL to interact with data.
+
 
 --What is Database?
 --A database (container) is an organized collection of data that can be easily accessed, managed, and updated.
 --purpose of a database is to store data in a structured way, allowing for efficient retrieval and manipulation of that data.
 --Excel, txt and other file formats are to small scale data storage solutions, while databases are designed to handle large volumes of data and complex queries.
---it's a professional and secure way to manage data.
 
 --DBMS
 --A Database Management System (DBMS) is software that enables users to create, manage, and interact with databases.
 --People, Applications and Power BI connect to the DBMS
 --Servers host the DBMS (Cloud or On-Premises))
-
---Vocabulary:
---Database :: Stores Data
---SQL :: Speak to Database
---DBMS :: Manage Database
---Server :: Where Databse Lives
 
 --Database Types:
 --Relational Databases (RDBMS): Store data in tables with rows and columns. Examples: MySQL, PostgreSQL, Oracle, Microsoft SQL Server.
