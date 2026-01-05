@@ -80,3 +80,15 @@ Designed for unstructured data and flexible schemas.
 | **DDL** | Data Definition Language | Manage database structures | `CREATE`, `ALTER`, `DROP` |
 | **DML** | Data Manipulation Language | Retrieve and manipulate data | `INSERT`, `UPDATE`, `DELETE` |
 | **DQL** | Data Query Language | Focus on querying data | `SELECT` |
+
+---
+
+## SQL Components
+
+---
+
+## SQL Coding Style
+
+---
+
+## Setup Environment
