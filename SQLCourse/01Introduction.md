@@ -34,12 +34,6 @@ A DBMS is the software that enables users to create, manage, and interact with d
 * **DBMS:** The software used to manage the database.
 * **Server:** Where the database lives.
 
-for Obisidian:
-Database :: Stores Data
-SQL :: Speak to Database
-DBMS :: Manage Database
-Server :: Where Databse Lives
-
 ---
 
 ## Database Types
