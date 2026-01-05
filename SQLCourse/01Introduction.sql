@@ -1,15 +1,4 @@
 
-
---What is Database?
---A database (container) is an organized collection of data that can be easily accessed, managed, and updated.
---purpose of a database is to store data in a structured way, allowing for efficient retrieval and manipulation of that data.
---Excel, txt and other file formats are to small scale data storage solutions, while databases are designed to handle large volumes of data and complex queries.
-
---DBMS
---A Database Management System (DBMS) is software that enables users to create, manage, and interact with databases.
---People, Applications and Power BI connect to the DBMS
---Servers host the DBMS (Cloud or On-Premises))
-
 --Database Types:
 --Relational Databases (RDBMS): Store data in tables with rows and columns. Examples: MySQL, PostgreSQL, Oracle, Microsoft SQL Server.
 --SQL is primarily used with relational databases.
