@@ -32,3 +32,5 @@ Tasks:
   - Missing Values: Use COALESCE to handle NULL entries in critical data columns.
   - Deduplication: Identify and remove duplicate entries based on fuzzy matching logic.
   - Dataset Suggestion: Kaggle CSV datasets or NYC Open Data.
+
+5. Other projects
